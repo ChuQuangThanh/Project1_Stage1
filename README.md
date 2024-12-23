@@ -15,7 +15,6 @@ Các thuật toán được đề cập đến
 
 ![Hình ảnh của tuần làm](1.png)
 ![Hình ảnh của tuần làm](2.png)
-*Hình ảnh của tuần làm*
 
 ## 2. Week 7 -> 8: Một số truy vấn về vấn đề thực tế
 
@@ -26,7 +25,6 @@ Các vấn đề được đề cập đến
 |8|Truy vấn về bài làm của học sinh, Thông tin thành phố|
 
 ![Hình ảnh của tuần làm](3.png)
-*Hình ảnh của tuần làm*
 
 ## 3. Network graph trong git
 ![Network graph](4.png)
