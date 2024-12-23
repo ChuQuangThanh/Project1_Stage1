@@ -1,10 +1,4 @@
 title: Project1_Stage1
 description: Author : Chử Quang Thành
+include: README.md
 theme: jekyll-theme-cayman
-
-# Cayman theme customization
-show_downloads: false
-google_analytics:
-github:
-  is_project_page: true
-  repository_url: https://github.com/ChuQuangThanh/Project1_Stage1
