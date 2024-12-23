@@ -16,6 +16,7 @@ Các thuật toán được đề cập đến
 ![Hình ảnh của tuần làm](1.png)
 ![Hình ảnh của tuần làm](2.png)
 
+
 ## 2. Week 7 -> 8: Một số truy vấn về vấn đề thực tế
 
 Các vấn đề được đề cập đến
