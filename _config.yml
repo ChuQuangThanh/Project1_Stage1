@@ -1,4 +1,8 @@
-title: Project1_Stage1
-description: Author : Chử Quang Thành
-include: README.md
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - README.md
 theme: jekyll-theme-cayman
